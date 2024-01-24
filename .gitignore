@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Nencer/bin/Debug/net7.0
+/.vs/Nencer/FileContentIndex
+/Nencer/obj
